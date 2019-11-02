@@ -19,7 +19,7 @@
 		"join-monster": "^2.1.0",
 		"join-monster-graphql-tools-adapter": "0.0.3",
 		"jsonwebtoken": "^8.5.1",
-		"knex": "^0.19.1",
+		"knex": "^0.19.5",
 		"pg": "^7.12.1"
 	},
 	"devDependencies": {
